@@ -1,31 +1,10 @@
-Paradigm Shift by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+This theme's template was downloaded from https://onepagelove.com/templates/free-templates (pick the templatw with "Paradigm Shift..." as its title) 
 
-
-Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
-Took things in a slightly different direction with this one, partly to mess with CSS
-grid (which this one relies on pretty heavily) but mostly to get back to making weirder
-and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
-continued support despite the lack of updates :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+To edit the template follow these steps:
+1) Downlaod Git and Install
+2) Download Visual Studio Code and Install (alternatively one can use the Github desktop and if this route is chosen please find equivalent ways to edit the template).
+3) Then download the template from the site referenced above.
+4) Extract the template to the Desktop 
+5) Find the index.html file and open it on your web browser choice.
+6) Now open the index.html on Visual Studio Code to edit the template.
+7) Finally you can edit the template and personalise it with html styles, fonts, etc.
